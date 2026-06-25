@@ -13,6 +13,6 @@ I previously did research with the Accelerated Materials Laboratory for Sustaina
 
 Outside of lab, I am usually staying active (fencing, playing ultimate frisbee, rock climbing to name a few), watching a movie at the closest AMC, or reading classic literature.
 
-<!-- You can check out my publications and portfolio on this website. -->
+You can check out my publications and portfolio on this website. You can contact me at kelsey [dot] fontenot [at] columbia [dot] edu.
 
 ![/images/acadia.jpg](/images/acadia.jpg)
