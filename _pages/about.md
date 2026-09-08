@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kelsey Fontenot. I am an incoming Master's student at Columbia University. I recently graduated from Massachusetts Institute of Technology, majoring in Mechanical Engineering with a concentration in Controls, Instrumentation, and Robotics.
+My name is Kelsey Fontenot. I am a first year graduate student at Columbia University. I recently graduated from Massachusetts Institute of Technology, majoring in Mechanical Engineering with a concentration in Controls, Instrumentation, and Robotics.
 
 I previously did research with the Accelerated Materials Laboratory for Sustainability, supervised by post-doc Aleks Siemmen and Principal Investigator Tonio Buonassisi. I'm passionate about working on all parts of robotics - mechanical, electrical, software and integration!
 

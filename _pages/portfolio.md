@@ -5,6 +5,14 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+## Autonomous Racecar Development
+6.4200 Robotics: Science & Systems, Spring 2026
+
+![/images/lab_6_rviz_1.gif](/images/lab_6_rviz_1.gif)
+<!-- ![/images/final_challenge.gif](/images/final_challenge.gif) -->
+
+Over the course of the semester, I designed, developed, and implemented fundamental algorithms for autonomous vehicles, including PID control for wall following, visual servoing and recognizing objects, localization, and path planning. The final challenge involved working as a team of 5 to have our racecar complete a lap around a track as fast as possible and autonomously navigating many obstacles set up in a basement hallway.
+
 ## Scribbly
 2.009 Product Engineering Process, Fall 2025
 
@@ -38,3 +46,10 @@ Our semester long project centered on designing and developing an underwater rob
 [[paper](/files/671_paper_2column.pdf)] [[poster](/files/671_poster.pdf)]
 
 I tested aluminum honeycomb structures via axial loading and developed a model relating the structure’s volume to the energy it absorbed as well as the peak and average forces the structure withstood over a set distance. I applied this model to my build team MIT Motorsports to influence design choices of the impact attenuator with the goal of minimizing size while maintaining safety of the car in accordance with the rules of the FSAE competition. I led the impact attenuator subsystem for two generations of cars, MY24 and MY25.
+
+<!-- ## MiniBot
+
+[some sort of image]
+
+16.632 Introduction to Autonomous Machines, Fall 2023
+I learned the fundamental aspects of autonomous navigation and localization through a series of hands-on exercises with a variety of sensors and a small-scale autonomous vehicle utilized for implementation. Our culminating project involved using an inertial measurement unit sensor, a line detection sensor, an optical distance sensor, and PID turning on our robots to autonomously navigate a maze in the least time. -->
